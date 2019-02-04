@@ -10,6 +10,7 @@ List of tools and resources to help in the development process. If you find some
 - [CSS](#css)
   - [Flexbox](#flexbox)
   - [CSS Grid](#css-grid)
+ - [Free Icons](#free-icons)
 
 # Git
 
@@ -37,3 +38,14 @@ List of tools and resources to help in the development process. If you find some
 
 - [Firefox grid playground](https://mozilladevelopers.github.io/playground/css-grid): concepts and basics.
 - [Grid Garden](https://cssgridgarden.com/): interactive grid learning.
+
+# Free Icons
+
+- [Flaticon](https://www.flaticon.com/): customizable vector icons. Available in svg, png, eps, psd and base64.
+- [Unicons](https://iconscout.com/unicons)
+- [Icon Finder](https://www.iconfinder.com/): with online icon editor.
+- [Hero Patterns](http://www.heropatterns.com/): free repeatable SVG background patterns for the web.
+- [Orion](https://orioniconlibrary.com/)
+- [Material Icons](https://material.io/tools/icons/?style=baseline): from Google.
+- [Icons 8](https://icons8.com/icons)
+- [The Noun Project](https://thenounproject.com/)
