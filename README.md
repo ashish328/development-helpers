@@ -11,16 +11,17 @@ List of tools and resources to help in the development process. If you find some
   - [Flexbox](#flexbox)
   - [CSS Grid](#css-grid)
  - [Free Icons](#free-icons)
+ - [Bootstrap Admin Templates](#bootstrap-admin-templates)
 
 # Git
 
-## GUI Clients
+### GUI Clients
 
 - [Sublime Merge](https://www.sublimemerge.com/): very light weight.
 
 - [Git Kraken](https://www.gitkraken.com/): rich visual interfaces. Integrates with GitHub, GitLab and Bitbucket.  
 
-## Command Explorers
+### Command Explorers
 
 - [Git Explorer](https://gitexplorer.com): easily find git commands for your need.
 
@@ -30,11 +31,11 @@ List of tools and resources to help in the development process. If you find some
 
 # CSS
 
-## Flexbox
+### Flexbox
 
 - [Flexbox Froggy](https://flexboxfroggy.com/): interactive flexbox learning.
 
-## CSS Grid
+### CSS Grid
 
 - [Firefox grid playground](https://mozilladevelopers.github.io/playground/css-grid): concepts and basics.
 - [Grid Garden](https://cssgridgarden.com/): interactive grid learning.
@@ -49,3 +50,7 @@ List of tools and resources to help in the development process. If you find some
 - [Material Icons](https://material.io/tools/icons/?style=baseline): from Google.
 - [Icons 8](https://icons8.com/icons)
 - [The Noun Project](https://thenounproject.com/)
+
+# Bootstrap Admin Templates
+
+[A Themes](https://athemes.com/collections/free-bootstrap-admin-templates/), [Color Lib](https://colorlib.com/wp/free-bootstrap-admin-dashboard-templates/) and [Specky Boy](https://speckyboy.com/free-bootstrap-admin-themes/) have curated admin panels across the web.
