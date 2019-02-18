@@ -15,7 +15,7 @@ List of tools and resources to help in the development process. If you find some
 
 # Git
 ### E-BOOK
--[Git-Tower](https://www.git-tower.com/learn/git/ebook/en/desktop-gui/basics/what-is-version-control#start): E-book for both GUI and Command Line
+- [Git-Tower](https://www.git-tower.com/learn/git/ebook/en/desktop-gui/basics/what-is-version-control#start): E-book for both GUI and Command Line
 
 ### GUI Clients
 
